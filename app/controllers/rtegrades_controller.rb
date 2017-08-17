@@ -1,0 +1,3 @@
+class RTEGradesController < ApplicationController
+  
+end
